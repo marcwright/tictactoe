@@ -1,0 +1,30 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: solid #000 10px;
+  margin: 0px;
+  background: white;
+  display: inline-block;
+  border-left: 0px;
+  border-top: 0px;
+  float: left;
+}
+
+
+#red {
+  background: red;
+}
+
+#blue {
+  background: blue;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#container {
+	max-width: 550px;
+	margin: -10px;
+
+}
